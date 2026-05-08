@@ -1,9 +1,9 @@
 # Tiny Tapeout project information
 project:
-  title:        "Mini cpu 8 bit"      # Project title
+  title:        "Mini 8 bit cpu"      # Project title
   author:       "Jorge Gutierrez"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Cpu 8 bit with custom ISA"      # One line description of what your project does
+  description:  "An 8-bit CPU, custom-designed instruction set architecture (ISA), and hardware-level experimentation"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     100       # Clock frequency in Hz (or 0 if not applicable)
 
