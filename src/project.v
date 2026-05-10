@@ -26,7 +26,7 @@ module tt_um_directsgg_mini_cpu_8bit (
   assign stop_cpu = uio_in[6];
   assign uio_out[7] = run_cpu;
 
-  cpu mycpu (
+  cpu my_cpu (
       .clk(clk),
       .rst(rst),
       .start_cpu(start_cpu),
